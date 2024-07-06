@@ -9,3 +9,5 @@
 Я - студент проекта "Код будущего", прочитать про который вы можете по [ссылке](https://inginirium.ru/u2035/).
 
 ![Иконка проекта](https://inginirium.ru/img/inginirium.png)
+
+![Кот с пиццей](https://http.cat/images/202.jpg)
